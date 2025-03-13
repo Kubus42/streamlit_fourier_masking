@@ -22,6 +22,6 @@ This Streamlit app lets you explore 2D Fourier Transforms by applying various fr
 
 3. Run the app:
     ```bash
-        streamlit run app.py
+    streamlit run app.py
     ```
 
