@@ -11,7 +11,7 @@ This Streamlit app lets you explore 2D Fourier Transforms by applying various fr
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/fourier-transform-masking.git
+   git clone https://github.com/kubus42/streamlit_fourier_masking.git
    cd fourier-transform-masking
    ```
 
